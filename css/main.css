@@ -29,6 +29,7 @@ a {
 }
 a:hover {
   text-decoration: none;
+  color: #8C271E;
 }
 .main-nav {
   display: flex;

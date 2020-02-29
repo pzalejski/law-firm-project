@@ -1,0 +1,80 @@
+.what-we-do-aside-list{
+    padding-left: 2rem;
+    list-style:none;
+    padding-bottom: 1rem;
+    /* height: 4rem; */
+    /* font-size: 1.2rem; */
+    margin-bottom: 1rem;
+    font-weight: bold;
+  }
+  
+.what-we-do-aside{
+    background-color: #8C271E;
+    color: #fff;
+    padding-left: 2%;
+    padding-right: 5rem;
+    font-size: 1.2rem;
+    height:100%;
+    width:80rem;
+    margin-bottom: 2%;
+}
+
+ ul  {
+    list-style: none;
+  }
+
+  img {
+      width: 85%;
+      margin-top: 1rem;
+      height: auto;
+  }
+
+  .what-we-do-content{
+      display: flex;
+      flex-direction: row-reverse;
+  }
+
+  .what-we-do-section {
+      margin-left: 1rem;
+      font-size: 1.4rem;
+      padding-right: 1rem;
+  }
+
+.h3what-we-do {
+    margin-top: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    padding-bottom: 2rem;
+    border-bottom: 1.5px solid #fff;
+    font-size: 1.4rem;
+}
+
+
+h4 {
+    font-size: 1.2rem;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.list-links h4,li{
+    font-size: 1rem;
+}
+
+.aside-links{
+    color: #fff;
+
+}
+.aside-links:hover{
+    color: #ccc;
+}
+
+.meet-our-partners {
+    position: relative;
+}
+
+span {
+    position: absolute;
+    bottom: 30px;
+    right: 40px;
+    color: blue;
+}
