@@ -12,13 +12,15 @@ body {
 header {
   border-top: 2px solid #000;
   border-bottom: 2px solid #000;
+  margin: 0 5rem 0 5rem;
 }
 ul {
   margin: 0;
 }
-.header-nav {
-  padding: 1rem;
-  text-align: center;
+.midnav {
+  border-right: 1px solid #ccc;
+  padding-right: 5rem;
+  margin: .5rem 0 .5rem 0;
 }
 .first-nav {
   border-left: none;
@@ -39,6 +41,7 @@ a:hover {
 }
 .main-footer {
   border-top: 3px solid #000;
+  margin: 0 5rem 0 5rem;
 }
 #main-content {
   padding: 1rem;
@@ -56,3 +59,4 @@ a:hover {
   text-align: center;
   color: #ccc;
 }
+
